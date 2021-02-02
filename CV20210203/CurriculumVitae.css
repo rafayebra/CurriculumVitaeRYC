@@ -32,6 +32,10 @@
 
 }
 
+#barraLateralTituto p img {
+    
+}
+
 #barraLateralIndice{
     display: flex;
     flex-direction: column;
