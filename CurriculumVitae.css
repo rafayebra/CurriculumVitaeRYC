@@ -1,0 +1,63 @@
+h1 {
+    color: green;
+    font-size: 40px;
+    line-height: 0%;
+    text-align: left; 
+}
+
+.lineaTitulo {
+    border: 1.5px solid green;
+    background-color: green;
+}
+
+.continenteH1 {
+    margin-left: 100px; 
+    margin-right: 100px; 
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
+
+.modeloTabla1 {
+    border: 3.5px solid green;
+    background-color: rgba(0, 128, 0, 0.062);
+    border-spacing: 10px;
+    width: 100%;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+.modeloTabla1 td {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.modeloTabla2Borde {
+    border: 3.5px solid green;
+    background-color: rgba(0, 128, 0, 0.062);
+    border-radius: 25px;
+    width: 100%
+}
+
+.modeloTabla2 {
+    border-collapse: collapse;
+    border-radius: 25px;
+    overflow: hidden;
+    border: 3.5px solid green;
+    border-spacing: 10px;
+    width: 100%;
+    font-size: 25px;
+}
+
+.modeloTabla2 td {
+    border: 1px solid green;
+
+}
+
+/*
+ <table style="border-color: green;" cellspacing="0" cellpadding="0" border="3" WIDTH="100%">
+                <tr>
+                    <td>
+                        <table cellspacing="0" cellpadding="5" border="1" WIDTH="100%"; style="background-color: rgba(0, 128, 0, 0.062);">
+                            <tbody style="font-size: 25px; ; border-width: 20px; border: solid; border-color:green;">
