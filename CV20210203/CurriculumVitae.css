@@ -155,11 +155,23 @@ h1 {
     border: 1px solid green;
 }
 
+.modeloTabla3 {
+    
+    border-spacing: 10px;
+    width: 100%;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+.contratacionP {
+    border: 3.5px solid green;
+    background-color: rgba(0, 128, 0, 0.062);
+    border-spacing: 10px;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+}
 
 
-/*
- <table style="border-color: green;" cellspacing="0" cellpadding="0" border="3" WIDTH="100%">
-                <tr>
-                    <td>
-                        <table cellspacing="0" cellpadding="5" border="1" WIDTH="100%"; style="background-color: rgba(0, 128, 0, 0.062);">
-                            <tbody style="font-size: 25px; ; border-width: 20px; border: solid; border-color:green;">

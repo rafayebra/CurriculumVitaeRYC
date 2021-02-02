@@ -32,6 +32,7 @@ var colorBoton0 = document.getElementsByTagName('button')[0];
 colorBoton0.addEventListener("click", colorPulsar0);
 function colorPulsar0() {
     colorBoton0.style.background = "rgb(240, 161, 71)";
+    alert('¡ESTUPENDO, PARECE QUE TE HAS DECIDIDO!')
 };
 
 var colorBoton1 = document.getElementsByTagName('button')[1];
